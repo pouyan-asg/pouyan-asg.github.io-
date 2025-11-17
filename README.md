@@ -9,7 +9,7 @@ This is where I plan to write some of my thoughts as well as talk about my resea
 - [x] add selected publication in about
 - [x] add latested blog post in about page
 - [x] complete publication list
-- [ ] connect domain to the website.
+- [x] connect domain to the website.
 - [ ] change profile photo
 - [ ] add a clear cool description
 - [ ] clean all social media images, descriptions and check their links
