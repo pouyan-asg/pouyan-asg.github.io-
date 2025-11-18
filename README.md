@@ -1,6 +1,31 @@
+<<<<<<< HEAD
 
-# Suraj Anand's Blog 📄
+# Pouyan Asgharian's Blog 📄
 
 This is where I plan to write some of my thoughts as well as talk about my research and ideas. The format is based off of Al-Folio.
 
-It is built on top of TypeScript and Astro.
+### Todo list
+
+- [x] build on top of Al-Folio
+- [x] add selected publication in about
+- [x] add latested blog post in about page
+- [x] complete publication list
+- [x] connect domain to the website.
+- [ ] change profile photo
+- [ ] add a clear cool description
+- [ ] clean all social media images, descriptions and check their links
+- [ ] question: which social media should be kept on the website? delete the rest
+- [ ] create a blog page
+- [ ] add at least 3 last medium posts on blog page
+- [ ] check publication list (add everything you have)
+- [ ] if possible add image for publicatins
+- [ ] modify project page
+- [ ] modify CV page (need to be synch with complete CV from past to present)
+
+useful links:
+https://docs.google.com/spreadsheets/d/1JfUK4r3E_BALKNiD5QelcUqjLad_q9_8HWExX2BV4PQ/edit?gid=0#gid=0
+https://linktr.ee/pouyan_asgharian
+=======
+# pouyan-asg.github.io
+Personal Website
+>>>>>>> 7aa7f78bb22a570aa908a31708402de462175966
