@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: pouyan-asg.github.io/sitemap.xml
+Sitemap: http://pouyan-asg.github.io/sitemap.xml
