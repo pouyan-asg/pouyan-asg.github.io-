@@ -1,0 +1,65 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Pouyan Asgharian
+    - name: Languages
+      value: English 
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science
+      institution: X University, Providence, RI
+      graduation year: Expected 2024
+
+    - title: Bachelor of Science
+      institution: Y University, Providence, RI
+      graduation year: Expected 2024
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Computational Linguistics (CS1460)
+      institution: Brown University
+      year: Fall 2023
+      description:
+
+    - title: Data Science Intern
+      department: Point72 Market Intelligence, Proprietary Research
+      year: Summer 2023
+
+    - title: Machine Learning (NLP) Intern
+      department: Kaiser Permanente Medical Informatics
+      year: Summer 2022
+
+    - title: Machine Learning Engineer Intern
+      department: VolKno
+      year: 2022
+
+
+- title: Research
+  type: time_table
+  contents:
+    - title: Transformer Learning Dynamics
+      year: Fall 2023
+      description:
+
+    - title: RLAIF for Pink Elephants
+      year: Fall 2023
+      description:
+    
+    - title: Concept Removal/Counterfactual Algorithms
+      year: Spring 2023
+      description:
+
+- title: Honors and Awards
+  type: list
+  contents:
+    - <u>Achievements:</u> Intel International Science Fair Finalist, 
+          AIME Qualifier (x2), LA Country Science Fair Overall Winner
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Reading, Surfing, Rock Climbing, Cooking
