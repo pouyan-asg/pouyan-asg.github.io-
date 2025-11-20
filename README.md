@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Pouyan Asgharian's Blog 📄
 
@@ -25,7 +24,3 @@ This is where I plan to write some of my thoughts as well as talk about my resea
 useful links:
 https://docs.google.com/spreadsheets/d/1JfUK4r3E_BALKNiD5QelcUqjLad_q9_8HWExX2BV4PQ/edit?gid=0#gid=0
 https://linktr.ee/pouyan_asgharian
-=======
-# pouyan-asg.github.io
-Personal Website
->>>>>>> 7aa7f78bb22a570aa908a31708402de462175966
