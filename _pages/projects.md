@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of my projects.
+title: Projects
+permalink: /proj/
+description: A collection of my projects.
 nav: true
 nav_order: 3
 display_categories: [fall 2023, spring 2023]

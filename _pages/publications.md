@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /pub/
+title: Publications
 description: List of publications in reverse chronological order.
 nav: true
 nav_order: 2
@@ -10,5 +10,8 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
+
+<!-- {% bibliography --template bibliography %} -->
+
 
 </div>

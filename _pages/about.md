@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
 profile:
   align: right
-  image: pf2.jpeg
+  image: profpouyan.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact me:</p>
