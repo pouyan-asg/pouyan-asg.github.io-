@@ -5,22 +5,23 @@ This is where I plan to write some of my thoughts as well as talk about my resea
 
 ### Todo list
 
-- [x] build on top of Al-Folio
-- [x] add selected publication in about
-- [x] add latested blog post in about page
-- [x] complete publication list
-- [x] connect domain to the website.
-- [ ] change profile photo
-- [ ] add a clear cool description
-- [ ] clean all social media images, descriptions and check their links
-- [ ] question: which social media should be kept on the website? delete the rest
-- [ ] create a blog page
-- [ ] add at least 3 last medium posts on blog page
-- [ ] check publication list (add everything you have)
-- [ ] if possible add image for publicatins
-- [ ] modify project page
-- [ ] modify CV page (need to be synch with complete CV from past to present)
+- [x] build on top of Al-Folio. 
+- [x] add selected publication in about. 
+- [x] add latest blog post in about page. 
+- [x] complete publication list. 
+- [x] connect the domain to the website. 
+- [x] change profile photo. 
+- [x] add a clear, cool description for the main page. 
+- [x] clean all social media images, descriptions, and check their links. 
+- [x] question: Which social media should be kept on the website? Delete the rest. 
+- [x] create a blog and podcast pages. 
+- [ ] add at least 3 last medium posts on the blog page. 
+- [x] check publication list (add everything you have). 
+- [x] add correct thumbnail for all publications. 
+- [ ] modify project page. 
+- [ ] modify CV page (need to be synced with the complete CV from past to present). 
+- [ ] add podcast links to the page. 
+- [ ] all social media should have the same picture and descriptions. 
 
 useful links:
-https://docs.google.com/spreadsheets/d/1JfUK4r3E_BALKNiD5QelcUqjLad_q9_8HWExX2BV4PQ/edit?gid=0#gid=0
 https://linktr.ee/pouyan_asgharian
